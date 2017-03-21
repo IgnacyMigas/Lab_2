@@ -50,7 +50,7 @@ class calc(abstractCalc):
 	
 	def isANumber(self, x):
 		if not isinstance(x, (int, float)):
-			raise notNumber()
+			raise notANumber()
 	
 	def isAZero(self, x):
 		if x == 0:
