@@ -2,7 +2,7 @@ language: python
 python:
   - "2.7"
 install:
-  - pip install .
+  - python -m pip install --upgrade pip
   - pip install -r requirements.txt
 # command to run tests
-script: pytest
+script: calc_test.py
