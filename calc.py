@@ -63,3 +63,9 @@ class calc(abstractCalc):
 	def isAFunction(self, func):
 		if not callable(func):
 			raise notFunction()
+
+def main():
+	pass
+
+if __name__ == "__main__":
+	main()
