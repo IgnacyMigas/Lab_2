@@ -7,8 +7,9 @@ Scipy.misc:
 ```shell
 $ sudo apt-get install python-scipy
 $ pip install scipy
+```
 
 ## Run
 ```shell
 $ python calc.py
-
+```
