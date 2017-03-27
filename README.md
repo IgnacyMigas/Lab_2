@@ -1,4 +1,5 @@
 # Lab_2
+[![Build Status](https://travis-ci.org/IgnacyMigas/Lab_2.svg?branch=master)](https://travis-ci.org/IgnacyMigas/Lab_2)
 
 Usage: python calc.py
 Output: no output
